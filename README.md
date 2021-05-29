@@ -10,4 +10,5 @@ Day 7. [Split Landing Page](https://sultanmalik04.github.io/50-Projects/Day%207-
 Day 8. [Form Wave Animation](https://sultanmalik04.github.io/50-Projects/Day%208-Form-Wave-Animation/)     
 Day 9. [Sound Board](https://sultanmalik04.github.io/50-Projects/Day%209-Sound-Board/)      
 Day 10. [Dad Jokes](https://sultanmalik04.github.io/50-Projects/Day%2010-Dad-Jokes/)    
-Day 11. [Event keyCode](https://sultanmalik04.github.io/50-Projects/Day%2011-Event-keyCodes/)
+Day 11. [Event keyCode](https://sultanmalik04.github.io/50-Projects/Day%2011-Event-keyCodes/)    
+Day 12. [FAQ Collapse](https://sultanmalik04.github.io/50-Projects/Day%2012-FAQ-Collapse/)
