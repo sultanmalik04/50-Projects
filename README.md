@@ -13,5 +13,6 @@ Day 10. [Dad Jokes](https://sultanmalik04.github.io/50-Projects/Day%2010-Dad-Jok
 Day 11. [Event keyCode](https://sultanmalik04.github.io/50-Projects/Day%2011-Event-keyCodes/)    
 Day 12. [FAQ Collapse](https://sultanmalik04.github.io/50-Projects/Day%2012-FAQ-Collapse/)      
 Day 13. [Random Choice Picker](https://sultanmalik04.github.io/50-Projects/Day%2013-Random-Choice-Picker/)     
-Day 14. [Animated Navigation](https://sultanmalik04.github.io/50-Projects/Day%2014-Animated-Navigation/)
+Day 14. [Animated Navigation](https://sultanmalik04.github.io/50-Projects/Day%2014-Animated-Navigation/)      
+Day 15. [Animated Navigation](https://sultanmalik04.github.io/50-Projects/Day%2015-Drink-Water/)
 
