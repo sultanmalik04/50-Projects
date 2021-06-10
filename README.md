@@ -16,5 +16,5 @@ Day 13. [Random Choice Picker](https://sultanmalik04.github.io/50-Projects/Day%2
 Day 14. [Animated Navigation](https://sultanmalik04.github.io/50-Projects/Day%2014-Animated-Navigation/)      
 Day 15. [Drink Water](https://sultanmalik04.github.io/50-Projects/Day%2015-Drink-Water/)    
 Day 16. [Incrementing Counter](https://sultanmalik04.github.io/50-Projects/Day%2016-Incrementing-Counter/)   
-Day 17. [Movie App](https://sultanmalik04.github.io/50-Projects/Day%2017-Movie-App/)
-
+Day 17. [Movie App](https://sultanmalik04.github.io/50-Projects/Day%2017-Movie-App/)    
+Day 18. [Background Slider](https://sultanmalik04.github.io/50-Projects/Day%2018-Background-Slider/)
